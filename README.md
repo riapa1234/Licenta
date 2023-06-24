@@ -1,6 +1,3 @@
-# Licenta
-Licenata Patrut Andrei (Robot cu inteligenta artificiala)
-
 import customtkinter as ctk
 import random
 import tkinter.messagebox as messagebox
